@@ -4,9 +4,9 @@ p{
 h1{
     color: rgba(156,156,156)
 }
-div{
-    color: red;
+.circle{
+    background-color: red;
     width: 100px;
     height: 100px;
-    border-radius: 10;
+    border-radius: 50%;
 }
